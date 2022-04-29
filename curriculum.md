@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Jaykon Willian de Oliveira</title>
+    <title>Bruno Silva Nobre</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     
@@ -15,8 +15,8 @@
     </div>
     <div class="to-main-header">
       <header>
-        <h1>Jaykon Willian de Oliveira</h1>
-        <h4>Tech Lead / Node.js Especialist</h4>
+        <h1>Bruno Silva Nobre</h1>
+        <h4>Tech Lead / Javascript Especialist</h4>
       </header>
     </div>
     <div class="content">
@@ -25,30 +25,27 @@
           <header>Dados Pessoais</header>
           <article>
             <header>Endereço</header>
-            Taubaté/SP
+            Jardim Umuarama/SP
           </article>
 
           <article>
             <header>Telefone</header>
-            (12) 991818030
+            (21) 994543810
           </article>
 
           <article>
             <header>E-mail</header>
-            <a href="mailto://jaykon.w@gmail.com">jaykon.w@gmail.com</a>
+            <a href="mailto://b.nobre90@yahoo.com.br">b.nobre90@yahoo.com.br</a>
           </article>
         </section>
 
         <section>
           <header>Redes Sociais</header>
           <article>
-            <a href="https://www.linkedin.com/in/jaykon-willian-de-oliveira-977917100/" target="_blank">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/bruno-nobre-61892271/" target="_blank">LinkedIn</a>
           </article>
           <article>
-            <a href="https://github.com/jaykon-w" target="_blank">GitHub</a>
-          </article>
-          <article>
-            <a href="https://www.youtube.com/channel/UC-nuC9rI-GnfdWubIzN7FRA" target="_blank">YouTube</a>
+            <a href="https://github.com/BrunoNobre" target="_blank">GitHub</a>
           </article>
         </section>
 
@@ -59,15 +56,15 @@
             <span class="skill-level">⬤⬤⬤⬤⬤</span>
           </article>
           <article>
-            <header>Flutter</header>
-            <span class="skill-level">⬤⬤⬤⬤⬤</span>
-          </article>
-          <article>
             <header>Arquitetura</header>
-            <span class="skill-level">⬤⬤⬤⬤◯</span>
+            <span class="skill-level">⬤⬤◯◯◯</span>
           </article>
           <article>
             <header>AWS</header>
+            <span class="skill-level">⬤⬤⬤◯◯</span>
+          </article>
+          <article>
+            <header>Azure</header>
             <span class="skill-level">⬤⬤⬤◯◯</span>
           </article>
         </section>
@@ -83,7 +80,7 @@
         <section>
           <header>Hobbies</header>
           <article>
-            Programar, Videogame, Boardgame e principalmente RPG
+            Programar, Videogame e Livros
           </article>
         </section>
 
@@ -146,14 +143,14 @@
         <section>
           <header>Linguagens e Técnologias</header>
           <article>
-            <header>
+            <header>+++++9
               <section class="title">
                 Palavras chaves que combinam com meu perfil
               </section>
             </header>
-            javascript, typescript, node.js, react.js, angular, rxjs, mysql, postgress, mongodb, express.js, 
-            nest.js, flutter, go, html, css, rabbitmq, redis, zookeeper, kafka, git, clean code, 
-            clean architecture, micro-serviços, docker, kubernetes, istio, traefik, elasticsearch, kibana, 
+            javascript, typescript, node.js, react.js, angular, rxjs, python, mysql, postgress, mongodb, express.js, 
+            nest.js, Qlickview, PowerBI, go, html, css, rabbitmq, redis, zookeeper, kafka, git, clean code, 
+            clean architecture, micro-serviços, docker, kubernetes, elasticsearch, kibana,
             logstash, grafana, prometheus, kiali, aws, firebase, fullstack, frontend, backend
           </article>
         </section>
